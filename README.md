@@ -1,2 +1,2 @@
 # super_trunfo.c
-Super Trunfo em C-Desafio Novato
+Super Trunfo em C-Desafio Novato, Intermediário e Mestre
